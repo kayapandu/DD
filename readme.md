@@ -1,1 +1,2 @@
-Markup :  ## Aloha ##
+## Aloha ##
+## Terimakasih telah mencoba GIT ##
